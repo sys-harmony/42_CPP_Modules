@@ -1,5 +1,7 @@
 # 42 C++ Piscine (CPP Modules)
 
+![Score: 100/100](https://img.shields.io/badge/Score-100%2F100-00b4ab?style=for-the-badge&logo=42&logoColor=white)
+
 This repository contains my solutions for the C++ modules of the 42 school core curriculum. The primary goal of these modules is to introduce Object-Oriented Programming (OOP) concepts using the **C++98** standard.
 
 ## 📚 Modules Overview
